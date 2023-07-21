@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Bem vindo ao meu perfil! 👋
+Me chamo Valmir Neto, tenho 19 anos e sou desenvolvedor front-end! </br>
+Atualmente estudo React e seu ecossistema e estou cursando Sistemas de Informação na UNIFEBE.
 <!--
 **valmirzuninoneto2/valmirzuninoneto2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
