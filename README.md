@@ -1,4 +1,4 @@
-# Bem-vindo ao meu Perfil no GitHub!
+# Bem-vindo ao meu Perfil no GitHub! :smile:
 
 Olá! Eu sou Valmir Neto, um entusiasta da programação com 19 anos de idade, natural de São João Batista, SC. Estou empolgado em compartilhar minha jornada e experiências na área de programação até agora. Atualmente, estou empenhado em aprimorar minhas habilidades e conhecimentos enquanto embarco em novas aventuras acadêmicas e profissionais.
 
