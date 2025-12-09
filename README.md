@@ -1,20 +1,20 @@
 # Bem-vindo ao meu Perfil no GitHub! :smile:
 
-Olá! Eu sou Valmir Neto, um entusiasta da programação com 19 anos de idade, natural de São João Batista, SC. Estou empolgado em compartilhar minha jornada e experiências na área de programação até agora. Atualmente, estou empenhado em aprimorar minhas habilidades e conhecimentos enquanto embarco em novas aventuras acadêmicas e profissionais.
+Olá! Eu sou Valmir Neto, um entusiasta da programação com 21 anos de idade, natural de São João Batista, SC. Estou empolgado em compartilhar minha jornada e experiências na área de programação até agora. Atualmente estou fora da área, trabalhando em uma cooperativa de crédito como Assistente de Cobrança e Recuperação de Crédito. Estou empenhado em aprimorar minhas habilidades e conhecimentos enquanto embarco em novas aventuras acadêmicas e profissionais. 
 
 ## Sobre Mim
 
-- 🔭 Atualmente desempregado, focado em aprimorar minhas habilidades de programação e aprender novas tecnologias.
-- 🌱 Estudante na Rocketseat, explorando o curso Ignite para aprimorar ainda mais meu conhecimento em desenvolvimento web e tecnologias relacionadas.
-- 📚 Iniciando minha jornada acadêmica na Faculdade de Sistemas da Informação na Unifebe - Brusque.
+- 🔭 Atualmente trabalhando em uma cooperativa de crédito, focado em aprimorar minhas habilidades de programação e aprender novas tecnologias.
+- 📚 Estou indo ao 4º período da graduação de Sistemas de Informação na UNIFEBE.
 - 👨‍💻 Experiência de 2 anos na área de programação, com ênfase no desenvolvimento de aplicativos delivery e força de vendas, e projetos pessoais.
 - 💼 Trabalhei durante 1 ano 6 meses em uma empresa de tecnologia, contribuindo ativamente para o suporte e participando da construção de atualizações e correções em aplicativos utilizando Angular, Ionic, Cordova, API em Java, Servidor Apache Tomcat e Banco de Dados Postgres.
+- Possuo experência e vivências no mundo corporativo, experiências que podem ajudar em várias situações do cotidiano.
 
 ## Minhas Habilidades
 
 - **Linguagens de Programação:** JavaScript, Typescript
-- **Tecnologias Front-End:** React, TailwindCSS, Angular, Ionic, HTML, CSS
-- **Banco de Dados:** PostgreSQL
+- **Tecnologias Front-End:** React (em aprendizado), TailwindCSS, HTML, CSS
+- **Banco de Dados:** PostgreSQL - em aprendizado.
 - **Ferramentas e Plataformas:** Git, NPM
 
 ## Projetos Destacados
